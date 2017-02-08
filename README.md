@@ -1,2 +1,5 @@
-# gre-flashcards
-GRE vocabulary study aid
+# GRE Flashcards
+
+Studying for the GRE? Here's a very simple Flashcard WebApp to help increase your vocabulary.
+
+Give it a shot right now: [GRE Flshcards](http://jackie.woodallfamily.org/gre-flashcards/)
